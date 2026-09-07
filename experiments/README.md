@@ -27,4 +27,4 @@ Record observations, links, data, and quotes where appropriate.
 
 ## Phase 0 priority
 
-The first experiments should be customer and market validation, not application development.
+The first experiments should be customer and market validation, not application development. Use `research/customer-discovery.md` for the interview guide and `research/hypotheses.md` for the claims each experiment should produce evidence against.
