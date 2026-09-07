@@ -1,6 +1,6 @@
 # Validation hypotheses
 
-Each hypothesis must be tested with evidence before product commitment.
+Each hypothesis must be tested with evidence before product commitment. Use `research/customer-discovery.md` to run interviews against these hypotheses, and log evidence here as it comes in. `research/competitors.md` provides a starting reference for the "kill signal" questions below, since several already have partial evidence from the existing market rather than only from interviews.
 
 ## H001 — Agent sprawl
 
