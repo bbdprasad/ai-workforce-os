@@ -21,6 +21,8 @@ These are hypotheses to validate through customer discovery and experiments.
 1. Is agent sprawl actually painful enough to buy software for?
 2. Who owns the problem: CIO, CTO, CISO, platform engineering, AI engineering, or business operations?
 3. What is the first painful workflow?
-4. What existing products already solve most of it?
+4. What existing products already solve most of it? (See `research/competitors.md` for a current landscape scan.)
 5. What cannot be solved by the major cloud/model vendors?
 6. What evidence would make us kill this thesis?
+
+See `research/customer-discovery.md` for the interview guide used to answer these questions with evidence rather than assumption.
