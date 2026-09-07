@@ -17,3 +17,5 @@ An enterprise should eventually be able to understand:
 - what measurable business value it creates.
 
 The vision is intentionally broader than the first product. The first product must earn the right to expand into this platform.
+
+This breadth is also why the vision alone is not a strategy. See `docs/moat.md` for why a broad platform vision does not by itself create defensibility, and `product/mvp.md` for how the first product is meant to be chosen.
