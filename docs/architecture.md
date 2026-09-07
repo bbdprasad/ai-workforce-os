@@ -26,3 +26,5 @@ Potential platform components include:
 - lifecycle management
 
 These components are not commitments. The eventual architecture will be driven by the first validated wedge.
+
+Several of these components (identity/permissions, evaluation/observability, cost attribution) already have crowded, moving competitors in isolation. See `research/competitors.md`. This is a reason to be cautious about building a horizontal version of any one component before the wedge is validated, not a reason to abandon the long-term architecture.
