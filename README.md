@@ -66,3 +66,5 @@ README.md
 **Phase 0: thesis and market validation.**
 
 We are deliberately not building the full OS yet. The immediate objective is to discover the painful wedge worth building.
+
+A first look at the competitive landscape (`research/competitors.md`) suggests the more obvious wedges (agent identity, agent evaluation/observability) are already crowded with funded, moving incumbents. This does not kill the overall thesis, but it sharpens the immediate question: find the wedge, buyer, or angle that incumbents structurally cannot reach, rather than a horizontal version of what they already sell. See `docs/moat.md` for the current thinking on defensibility.
